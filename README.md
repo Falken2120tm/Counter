@@ -23,7 +23,7 @@ This project is built using [Next.js](https://nextjs.org) and was bootstrapped w
 **EN:**  
 To run the development server:
 
-```bash
+```bash:
 npm run dev
 # or
 yarn dev
